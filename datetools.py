@@ -16,7 +16,7 @@ The Sanity Project - Code to make life easy
 
 DJANGO TOOLS - Date tools
 
-@requires: dateutil
+@requires: python-dateutil
 @requires: django>=1.4
     
 
